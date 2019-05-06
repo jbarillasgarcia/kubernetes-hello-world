@@ -1,0 +1,16 @@
+package gt.edu.umg.ingenieria.sistemas.so2.hellokubernetes;
+
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.test.context.junit4.SpringRunner;
+
+@RunWith(SpringRunner.class)
+@SpringBootTest
+public class HelloKubernetesApplicationTests {
+
+	@Test
+	public void contextLoads() {
+	}
+
+}
